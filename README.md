@@ -1,5 +1,6 @@
 # SVM-support-Vector-Machine-
 This project demonstrates the implementation and understanding of Support Vector Machine (SVM), a powerful supervised machine learning algorithm used for both classification and regression tasks.
+SVM works by finding the optimal decision boundary (hyperplane) that separates data points of different classes with the maximum margin, ensuring better generalization.
 
 # 📘 Support Vector Machine (SVM) 
 
